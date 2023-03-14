@@ -34,4 +34,4 @@ Languages & Tools 🛠
 
 GitHub stats:
 
-![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamcouti&show_icons=true&theme=radical)
+![Willian GitHub stats](https://github-readme-stats.vercel.app/api?username=williamcouti&show_icons=true&theme=radical)
