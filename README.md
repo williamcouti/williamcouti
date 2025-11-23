@@ -29,6 +29,10 @@ Languages & Tools 🛠
 ![GITLAB](https://img.shields.io/badge/gitlab-%23FF6600.svg?&style=for-the-badge&logo=GitLab&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GITHUB-F80000?style=for-the-badge&logo=github&logoColor=white)
+![CYPRESS](https://img.shields.io/badge/CYPRESS-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![ROBOT FRAMEWORK](https://img.shields.io/badge/ROBOT_FRAMEWORK-14354C?style=for-the-badge&logo=robotframework&logoColor=white)
+![SELENIUM](https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![APPIUM](https://img.shields.io/badge/APPIUM-3DDC84?style=for-the-badge&logo=appium&logoColor=white)
 <span><h2></h2></span>
 
 GitHub stats:
